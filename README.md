@@ -20,18 +20,18 @@ Tendriamos un diagrama similar, obviamente con la alimentación conectada, el di
 
 Una vez conectado al ordenador, abrimos el programa dado por el fabricante **RF_Setting_v3.49.exe**, lo podeis encontrar la carpeta docs del repo.
 
-![](resources/img/step1.png)
+![](resources/img/step1.PNG)
 
 Al inicio, este programa se encuentra en chino, lo podemos cambiar facilmente al Inglés, por comodidad.
-![](resources/img/step2.png)
+![](resources/img/step2.PNG)
 
 Asegurate de tener la radio en el Modo 1 para habilitar la configuración.
 
-![](resources/img/mode1.png)
+![](resources/img/mode1.PNG)
 
 Para leer la configuración actual, debemos darle a **OpenPort**, y luego, **GetParam**. Y veras la siguiente configuración por defecto. Puedes realizar cambios y guardar la configuración con **SetParam**. Y ya estaría.
 
-![](resources/img/step3.png)
+![](resources/img/step3.PNG)
 
 ## Módulo 
 Para el módulo a conectar remotamente, se puede usar la misma aplicación para configurarlo, solo debemos seguir el siguiente diagrama de conexiones.
